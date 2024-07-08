@@ -1,7 +1,7 @@
 {
-  "versionCode":2,
-  "versionName":"1.0.1",
+  "versionCode":3,
+  "versionName":"1.0.2",
   "contentText":"Please update your app",
-  "minSupport":3,
+  "minSupport":2,
   "url":"https://amineftw.github.io/newversionPorte/app-arm64-v8a-release.apk"
 }
