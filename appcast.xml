@@ -6,7 +6,7 @@
             <title>Version 1.0.7</title>
             <description>Magnetic sensor reads.</description>
             <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://amineftw.github.io/gear/app-arm64-v8a-release.apk" sparkle:version="1.0.7" sparkle:os="android"/>
+            <enclosure url="https://www.dropbox.com/scl/fi/4bo96jp4qsj0jf97nim64/app-arm64-v8a-release.apk?rlkey=qcvvrxeoavstn8kch8aov56yy&st=9sdrc6bx&dl=0" sparkle:version="1.0.7" sparkle:os="android"/>
         </item>
     </channel>
 </rss>
