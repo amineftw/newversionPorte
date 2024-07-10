@@ -2,13 +2,13 @@
   "releases": [
     {
       "version": "1.0.8",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.1/appx-1.0.1.zip",
+      "url": "https://amineftw.github.io/newversionPorte/app-arm64-v8a-release.apk",
       "checksum": "sha256:abc123...",
       "notes": "Bug fixes and performance improvements."
     },
     {
       "version": "1.0.0",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.0/appx-1.0.0.zip",
+      "url": "https://amineftw.github.io/newversionPorte/app-arm64-v8a-release.apk",
       "checksum": "sha256:def456...",
       "notes": "Initial release."
     }
