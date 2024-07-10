@@ -3,10 +3,10 @@
     <channel>
         <title>My App Updates</title>
         <item>
-            <title>Version 1.0.7</title>
+            <title>Version 1.0.6</title>
             <description>Magnetic sensor reads.</description>
             <pubDate>Wed, 10 Jul 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://amineftw.github.io/newversionPorte/app-arm64-v8a-release.apk" sparkle:version="1.0.7" sparkle:os="android"/>
+            <enclosure url="https://amineftw.github.io/newversionPorte/app-arm64-v8a-release.apk" sparkle:version="1.0.6" sparkle:os="android"/>
         </item>
     </channel>
 </rss>
